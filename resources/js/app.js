@@ -21,6 +21,7 @@ window.Vue = require('vue');
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
 
 Vue.component('customers', require('./components/CustomersComponent.vue').default);
+Vue.component('InfiniteLoading', require('vue-infinite-loading').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

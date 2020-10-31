@@ -6,6 +6,8 @@
 
         <link rel="stylesheet" href="{{ asset('public/css/app.css') }}">
 
+        <meta name="csrf-token" content="{{csrf_token()}}">
+
         <title>Componentes</title>
     </head>
     <body>
