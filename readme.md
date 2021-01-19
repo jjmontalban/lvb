@@ -1,6 +1,6 @@
-# Laravel, Vuejs & Vue
+# Laravel, Vuejs & Bootstrap
 
-App Vue with laravel Backend
+App Vue with Laravel Backend with views in Boostrap
 
 ## Buid with 🛠️
 
