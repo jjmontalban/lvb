@@ -5,7 +5,7 @@ App Vue with Laravel Backend with views in Boostrap
 ## Buid with 🛠️
 
 * [Vuejs](https://github.com/vuejs/vue) - Js Framework
-* [Unfinite Loadinf](https://www.npmjs.com/package/vue-infinite-loading) - An infinite scroll plugin for Vue.js
+* [Unfinite Loading](https://www.npmjs.com/package/vue-infinite-loading) - An infinite scroll plugin for Vue.js
 * [Laravel](https://laravel.com/) - CMS
 
 
